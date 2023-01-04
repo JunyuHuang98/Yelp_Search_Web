@@ -1,7 +1,8 @@
 # Yelp_Search_Web
 
 # Description
-● Created a web application allowing user to search business information using Yelp API, make and seereservations and share a post on Facebook about the business and deployed this application on GCP. 
+● Created a web application allowing user to search business information using Yelp API, make and seereservations and share a post on Facebook about the business and deployed this application on GCP.
+
 ● Developed the responsive front-end page using Angular, TypeScript and Bootstrap. Implemented the back-end applications in JavaScript using the Node.js Express framework.
 
 # Demo
